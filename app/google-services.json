@@ -1,0 +1,30 @@
+
+{
+"project_info": {
+"project_number": "315460976460",
+"project_id": "crashlytics-group-training",
+"storage_bucket": "crashlytics-group-training.firebasestorage.app"
+},
+"client": [
+{
+"client_info": {
+"mobilesdk_app_id": "1:315460976460:android:7f6c5d2e6294b7dddb59e9",
+"android_client_info": {
+"package_name": "com.tc.firebasetraining"
+}
+},
+"oauth_client": [],
+"api_key": [
+{
+"current_key": "AIzaSyDzvkSZrQOu-isdNd0m5SJNEseA-Qj9D9Y"
+}
+],
+"services": {
+"appinvite_service": {
+"other_platform_oauth_client": []
+}
+}
+}
+],
+"configuration_version": "1"
+}
